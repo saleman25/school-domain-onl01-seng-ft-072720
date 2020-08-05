@@ -19,7 +19,8 @@ def grade
 end 
 
 def sort
-  
+  sorted = {}
+  student_grade
 end 
 
 
